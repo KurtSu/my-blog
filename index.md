@@ -1,5 +1,5 @@
 ---
-layoutL default
+layout: default
 ---
 
 ## foo
