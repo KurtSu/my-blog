@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 ---
 
 ## foo
 _bar_
 
-[readme](./README.md)
+[readme](./README.html)
 # guess that's it 
